@@ -1,0 +1,12 @@
+{
+  "qewd_up": true,
+  "qewd": {
+    "bodyParser": "body-parser",
+    "port": "8080",
+    "poolSize": "2",
+    "managementPassword": "secretkey"
+  },
+  "jwt": {
+    "secret": "8a826cd9-8f7f-45dd-ae9f-9162e18de06b"
+  }
+}
